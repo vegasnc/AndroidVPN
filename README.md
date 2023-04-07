@@ -17,7 +17,7 @@ This Is Latest Release
 ## Colaborator
 Very open to anyone, I'll write your name under this, please contribute by sending an email to me
 
-- Mail To faisalamircs@gmail.com
+- Mail To vegaslancer1025@gmail.com
 - Subject : Github _ [Github-Username-Account] _ [Language] _ [Repository-Name]
 - Example : Github_amirisback_kotlin_admob-helper-implementation
 
